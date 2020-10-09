@@ -1,4 +1,4 @@
-# My d3-prototypes
+# Some d3-prototypes
 
 I designed this stuff as a Monkey Patch, but of course you can do it any way you want.
 
